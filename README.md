@@ -1,7 +1,7 @@
 # Project01_EmailMarketing
 Documentation and codes for use in email marketing
 
-#### content of the project codes from email marketing
+#### Content of the project codes from email marketing
 
 Here you find options can use in building your html for email marketing with structures in tables, totally functional in various webmails 
 
